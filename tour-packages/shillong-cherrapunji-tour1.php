@@ -1526,10 +1526,10 @@
                                 <div class="dib pr ofh lh0 c5px">
                                     <div class="imgFrame m0a dib w200px h200px">
                                         <div class="imgFrame picBg dtc ac vam lh0 w200px h200px">
-                                            <a href="http://www.souvenirsolutions.co.in/packages-in-cherrapunji.htm" title="Packages in Cherrapunji"><img src="https://dynamic.tourtravelworld.com/zsc-header/10521-classified.jpg" height="" width="" alt="Cherrapunji" title="Cherrapunji" /></a>
+                                            <a href="packages-in-cherrapunji.php" title="Packages in Cherrapunji"><img src="https://dynamic.tourtravelworld.com/zsc-header/10521-classified.jpg" height="" width="" alt="Cherrapunji" title="Cherrapunji" /></a>
                                         </div>
                                     </div>
-                                    <div class="h xlarge fw6 lh15em"><a href="http://www.souvenirsolutions.co.in/packages-in-cherrapunji.htm" title="Packages in Cherrapunji">Cherrapunji Tours</a></div>
+                                    <div class="h xlarge fw6 lh15em"><a href="packages-in-cherrapunji.php" title="Packages in Cherrapunji">Cherrapunji Tours</a></div>
                                 </div>
                             </li>
 
@@ -1537,10 +1537,10 @@
                                 <div class="dib pr ofh lh0 c5px">
                                     <div class="imgFrame m0a dib w200px h200px">
                                         <div class="imgFrame picBg dtc ac vam lh0 w200px h200px">
-                                            <a href="http://www.souvenirsolutions.co.in/packages-in-shillong.htm" title="Packages in Shillong"><img src="https://dynamic.tourtravelworld.com/zsc-header/10400-classified.jpg" height="" width="" alt="Shillong" title="Shillong" /></a>
+                                            <a href="packages-in-shillong.php" title="Packages in Shillong"><img src="https://dynamic.tourtravelworld.com/zsc-header/10400-classified.jpg" height="" width="" alt="Shillong" title="Shillong" /></a>
                                         </div>
                                     </div>
-                                    <div class="h xlarge fw6 lh15em"><a href="http://www.souvenirsolutions.co.in/packages-in-shillong.htm" title="Packages in Shillong">Shillong Tours</a></div>
+                                    <div class="h xlarge fw6 lh15em"><a href="packages-in-shillong.php" title="Packages in Shillong">Shillong Tours</a></div>
                                 </div>
                             </li>
 
@@ -1548,10 +1548,10 @@
                                 <div class="dib pr ofh lh0 c5px">
                                     <div class="imgFrame m0a dib w200px h200px">
                                         <div class="imgFrame picBg dtc ac vam lh0 w200px h200px">
-                                            <a href="http://www.souvenirsolutions.co.in/packages-in-guwahati.htm" title="Packages in Guwahati"><img src="https://dynamic.tourtravelworld.com/zsc-header/10377-classified.jpg" height="" width="" alt="Guwahati" title="Guwahati" /></a>
+                                            <a href="packages-in-guwahati.php" title="Packages in Guwahati"><img src="https://dynamic.tourtravelworld.com/zsc-header/10377-classified.jpg" height="" width="" alt="Guwahati" title="Guwahati" /></a>
                                         </div>
                                     </div>
-                                    <div class="h xlarge fw6 lh15em"><a href="http://www.souvenirsolutions.co.in/packages-in-guwahati.htm" title="Packages in Guwahati">Guwahati Tours</a></div>
+                                    <div class="h xlarge fw6 lh15em"><a href="packages-in-guwahati.php" title="Packages in Guwahati">Guwahati Tours</a></div>
                                 </div>
                             </li>
 
@@ -1559,10 +1559,10 @@
                                 <div class="dib pr ofh lh0 c5px">
                                     <div class="imgFrame m0a dib w200px h200px">
                                         <div class="imgFrame picBg dtc ac vam lh0 w200px h200px">
-                                            <a href="http://www.souvenirsolutions.co.in/packages-in-golaghat.htm" title="Packages in Golaghat"><img src="https://dynamic.tourtravelworld.com/zsc-header/10563-classified.jpg" height="" width="" alt="Golaghat" title="Golaghat" /></a>
+                                            <a href="packages-in-golaghat.php" title="Packages in Golaghat"><img src="https://dynamic.tourtravelworld.com/zsc-header/10563-classified.jpg" height="" width="" alt="Golaghat" title="Golaghat" /></a>
                                         </div>
                                     </div>
-                                    <div class="h xlarge fw6 lh15em"><a href="http://www.souvenirsolutions.co.in/packages-in-golaghat.htm" title="Packages in Golaghat">Golaghat Tours</a></div>
+                                    <div class="h xlarge fw6 lh15em"><a href="packages-in-golaghat.php" title="Packages in Golaghat">Golaghat Tours</a></div>
                                 </div>
                             </li>
 
@@ -1570,10 +1570,10 @@
                                 <div class="dib pr ofh lh0 c5px">
                                     <div class="imgFrame m0a dib w200px h200px">
                                         <div class="imgFrame picBg dtc ac vam lh0 w200px h200px">
-                                            <a href="http://www.souvenirsolutions.co.in/packages-in-kaziranga.htm" title="Packages in Kaziranga"><img src="https://ttw.wlimg.com/package-images/photo-small/dir_15/427340/302496.jpg" height="" width="" alt="Packages in Kaziranga" title="Packages in Kaziranga" /></a>
+                                            <a href="packages-in-kaziranga.php" title="Packages in Kaziranga"><img src="https://ttw.wlimg.com/package-images/photo-small/dir_15/427340/302496.jpg" height="" width="" alt="Packages in Kaziranga" title="Packages in Kaziranga" /></a>
                                         </div>
                                     </div>
-                                    <div class="h xlarge fw6 lh15em"><a href="http://www.souvenirsolutions.co.in/packages-in-kaziranga.htm" title="Packages in Kaziranga">Kaziranga Tours</a></div>
+                                    <div class="h xlarge fw6 lh15em"><a href="packages-in-kaziranga.php" title="Packages in Kaziranga">Kaziranga Tours</a></div>
                                 </div>
                             </li>
 
@@ -1581,10 +1581,10 @@
                                 <div class="dib pr ofh lh0 c5px">
                                     <div class="imgFrame m0a dib w200px h200px">
                                         <div class="imgFrame picBg dtc ac vam lh0 w200px h200px">
-                                            <a href="http://www.souvenirsolutions.co.in/packages-in-kohima.htm" title="Packages in Kohima"><img src="https://dynamic.tourtravelworld.com/zsc-header/10523-classified.jpg" height="" width="" alt="Kohima" title="Kohima" /></a>
+                                            <a href="packages-in-kohima.php" title="Packages in Kohima"><img src="https://dynamic.tourtravelworld.com/zsc-header/10523-classified.jpg" height="" width="" alt="Kohima" title="Kohima" /></a>
                                         </div>
                                     </div>
-                                    <div class="h xlarge fw6 lh15em"><a href="http://www.souvenirsolutions.co.in/packages-in-kohima.htm" title="Packages in Kohima">Kohima Tours</a></div>
+                                    <div class="h xlarge fw6 lh15em"><a href="packages-in-kohima.php" title="Packages in Kohima">Kohima Tours</a></div>
                                 </div>
                             </li>
 
@@ -1592,10 +1592,10 @@
                                 <div class="dib pr ofh lh0 c5px">
                                     <div class="imgFrame m0a dib w200px h200px">
                                         <div class="imgFrame picBg dtc ac vam lh0 w200px h200px">
-                                            <a href="http://www.souvenirsolutions.co.in/packages-in-bomdila.htm" title="Packages in Bomdila"><img src="https://dynamic.tourtravelworld.com/zsc-header/10373-classified.jpg" height="" width="" alt="Bomdila" title="Bomdila" /></a>
+                                            <a href="packages-in-bomdila.php" title="Packages in Bomdila"><img src="https://dynamic.tourtravelworld.com/zsc-header/10373-classified.jpg" height="" width="" alt="Bomdila" title="Bomdila" /></a>
                                         </div>
                                     </div>
-                                    <div class="h xlarge fw6 lh15em"><a href="http://www.souvenirsolutions.co.in/packages-in-bomdila.htm" title="Packages in Bomdila">Bomdila Tours</a></div>
+                                    <div class="h xlarge fw6 lh15em"><a href="packages-in-bomdila.php" title="Packages in Bomdila">Bomdila Tours</a></div>
                                 </div>
                             </li>
 
@@ -1603,10 +1603,10 @@
                                 <div class="dib pr ofh lh0 c5px">
                                     <div class="imgFrame m0a dib w200px h200px">
                                         <div class="imgFrame picBg dtc ac vam lh0 w200px h200px">
-                                            <a href="http://www.souvenirsolutions.co.in/packages-in-munnar.htm" title="Packages in Munnar"><img src="https://dynamic.tourtravelworld.com/zsc-header/11226-classified.jpg" height="" width="" alt="Munnar" title="Munnar" /></a>
+                                            <a href="packages-in-munnar.php" title="Packages in Munnar"><img src="https://dynamic.tourtravelworld.com/zsc-header/11226-classified.jpg" height="" width="" alt="Munnar" title="Munnar" /></a>
                                         </div>
                                     </div>
-                                    <div class="h xlarge fw6 lh15em"><a href="http://www.souvenirsolutions.co.in/packages-in-munnar.htm" title="Packages in Munnar">Munnar Tours</a></div>
+                                    <div class="h xlarge fw6 lh15em"><a href="packages-in-munnar.php" title="Packages in Munnar">Munnar Tours</a></div>
                                 </div>
                             </li>
 
@@ -1614,10 +1614,10 @@
                                 <div class="dib pr ofh lh0 c5px">
                                     <div class="imgFrame m0a dib w200px h200px">
                                         <div class="imgFrame picBg dtc ac vam lh0 w200px h200px">
-                                            <a href="http://www.souvenirsolutions.co.in/packages-in-tawang.htm" title="Packages in Tawang"><img src="https://dynamic.tourtravelworld.com/zsc-header/10619-classified.jpg" height="" width="" alt="Tawang" title="Tawang" /></a>
+                                            <a href="packages-in-tawang.php" title="Packages in Tawang"><img src="https://dynamic.tourtravelworld.com/zsc-header/10619-classified.jpg" height="" width="" alt="Tawang" title="Tawang" /></a>
                                         </div>
                                     </div>
-                                    <div class="h xlarge fw6 lh15em"><a href="http://www.souvenirsolutions.co.in/packages-in-tawang.htm" title="Packages in Tawang">Tawang Tours</a></div>
+                                    <div class="h xlarge fw6 lh15em"><a href="packages-in-tawang.php" title="Packages in Tawang">Tawang Tours</a></div>
                                 </div>
                             </li>
 
@@ -1625,10 +1625,10 @@
                                 <div class="dib pr ofh lh0 c5px">
                                     <div class="imgFrame m0a dib w200px h200px">
                                         <div class="imgFrame picBg dtc ac vam lh0 w200px h200px">
-                                            <a href="http://www.souvenirsolutions.co.in/packages-in-kochi.htm" title="Packages in Kochi"><img src="https://dynamic.tourtravelworld.com/zsc-header/10216-classified.jpg" height="" width="" alt="Kochi" title="Kochi" /></a>
+                                            <a href="packages-in-kochi.php" title="Packages in Kochi"><img src="https://dynamic.tourtravelworld.com/zsc-header/10216-classified.jpg" height="" width="" alt="Kochi" title="Kochi" /></a>
                                         </div>
                                     </div>
-                                    <div class="h xlarge fw6 lh15em"><a href="http://www.souvenirsolutions.co.in/packages-in-kochi.htm" title="Packages in Kochi">Kochi Tours</a></div>
+                                    <div class="h xlarge fw6 lh15em"><a href="packages-in-kochi.php" title="Packages in Kochi">Kochi Tours</a></div>
                                 </div>
                             </li>
 
@@ -1636,10 +1636,10 @@
                                 <div class="dib pr ofh lh0 c5px">
                                     <div class="imgFrame m0a dib w200px h200px">
                                         <div class="imgFrame picBg dtc ac vam lh0 w200px h200px">
-                                            <a href="http://www.souvenirsolutions.co.in/packages-in-tura.htm" title="Packages in Tura"><img src="https://dynamic.tourtravelworld.com/zsc-header/10522-classified.jpg" height="" width="" alt="Tura" title="Tura" /></a>
+                                            <a href="packages-in-tura.php" title="Packages in Tura"><img src="https://dynamic.tourtravelworld.com/zsc-header/10522-classified.jpg" height="" width="" alt="Tura" title="Tura" /></a>
                                         </div>
                                     </div>
-                                    <div class="h xlarge fw6 lh15em"><a href="http://www.souvenirsolutions.co.in/packages-in-tura.htm" title="Packages in Tura">Tura Tours</a></div>
+                                    <div class="h xlarge fw6 lh15em"><a href="packages-in-tura.php" title="Packages in Tura">Tura Tours</a></div>
                                 </div>
                             </li>
 
@@ -1647,10 +1647,10 @@
                                 <div class="dib pr ofh lh0 c5px">
                                     <div class="imgFrame m0a dib w200px h200px">
                                         <div class="imgFrame picBg dtc ac vam lh0 w200px h200px">
-                                            <a href="http://www.souvenirsolutions.co.in/packages-in-alleppey.htm" title="Packages in Alleppey"><img src="https://dynamic.tourtravelworld.com/zsc-header/10235-classified.jpg" height="" width="" alt="Alleppey" title="Alleppey" /></a>
+                                            <a href="packages-in-alleppey.php" title="Packages in Alleppey"><img src="https://dynamic.tourtravelworld.com/zsc-header/10235-classified.jpg" height="" width="" alt="Alleppey" title="Alleppey" /></a>
                                         </div>
                                     </div>
-                                    <div class="h xlarge fw6 lh15em"><a href="http://www.souvenirsolutions.co.in/packages-in-alleppey.htm" title="Packages in Alleppey">Alleppey Tours</a></div>
+                                    <div class="h xlarge fw6 lh15em"><a href="packages-in-alleppey.php" title="Packages in Alleppey">Alleppey Tours</a></div>
                                 </div>
                             </li>
                         </ul>

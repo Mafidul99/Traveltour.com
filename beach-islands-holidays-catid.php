@@ -236,7 +236,7 @@
                                     </td>
                                 </tr>
                             </table>
-                            <table class="w100 formTable bdr0 imgWidth cp table-link" data-url="tour-packages/5-nights6-days-tourof-andaman.htm" title="5 Nights / 6 Days Tour of Andaman">
+                            <table class="w100 formTable bdr0 imgWidth cp table-link" data-url="tour-packages/5-nights6-days-tourof-andaman.php" title="5 Nights / 6 Days Tour of Andaman">
                                 <tr>
                                     <td class="p10px vat cols_similar w40">
                                         <div class="picBg ac vam lh0"><img src="assets/img/photo-small/dir_15/427340/286741.jpg" height="100" width="100" alt="5 Nights / 6 Days Tour of Andaman" title="5 Nights / 6 Days Tour of Andaman" class="bdr" loading="lazy"

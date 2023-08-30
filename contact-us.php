@@ -111,7 +111,7 @@
                                         </div>
                                         <div class="df-dtc vam pl10px">
                                             <p class="xlarge fw6 mb7px ffpp contHd">Web Address</p>
-                                            <p class="alpha75"><a href="index.html" target="_blank" title="#">#</a>
+                                            <p class="alpha75"><a href="index.php" target="_blank" title="#">#</a>
                                             </p>
                                         </div>
                                     </div>

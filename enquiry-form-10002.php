@@ -57,49 +57,49 @@
                                     <ul>
                                         <li><b class="b2 fl"></b>
                                             <p class="ofh">
-                                                <a href="http://www.souvenirsolutions.co.in/tour-packages/2-days-shillong-cherrapunjee-tour.htm" title="2 Days Shillong &amp; Cherrapunjee Tour">2 Days Shillong &amp;
+                                                <a href="tour-packages/2-days-shillong-cherrapunjee-tour.php" title="2 Days Shillong &amp; Cherrapunjee Tour">2 Days Shillong &amp;
                                                     Cherrapunjee Tour - 1 N / 2 D</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
                                             <p class="ofh">
-                                                <a href="http://www.souvenirsolutions.co.in/tour-packages/1-day-shillong-tour.htm" title="1 Day Shillong Tour">1 Day Shillong Tour - / 1 D</a></p>
+                                                <a href="tour-packages/1-day-shillong-tour.php" title="1 Day Shillong Tour">1 Day Shillong Tour - / 1 D</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
                                             <p class="ofh">
-                                                <a href="http://www.souvenirsolutions.co.in/tour-packages/1-day-mawlynnong-dawki-tour.htm" title="1 Day Mawlynnong &amp; Dawki Tour">1 Day Mawlynnong &amp; Dawki Tour
+                                                <a href="tour-packages/1-day-mawlynnong-dawki-tour.php" title="1 Day Mawlynnong &amp; Dawki Tour">1 Day Mawlynnong &amp; Dawki Tour
                                                     - / 1 D</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
                                             <p class="ofh">
-                                                <a href="http://www.souvenirsolutions.co.in/tour-packages/assam-arunachal-tour-package.htm" title="Assam-Arunachal Tour Package">Assam-Arunachal Tour Package - 8 N / 9
+                                                <a href="tour-packages/assam-arunachal-tour-package.php" title="Assam-Arunachal Tour Package">Assam-Arunachal Tour Package - 8 N / 9
                                                     D</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
                                             <p class="ofh">
-                                                <a href="http://www.souvenirsolutions.co.in/tour-packages/1-night2-days-dawki-mawlynnong-krang-shuri-tour.htm" title="1 Night 2 Days Dawki, Mawlynnong &amp; Krang Shuri Tour">1 Night 2
+                                                <a href="tour-packages/1-night2-days-dawki-mawlynnong-krang-shuri-tour.php" title="1 Night 2 Days Dawki, Mawlynnong &amp; Krang Shuri Tour">1 Night 2
                                                     Days Dawki, Mawlynnong &amp; Krang Shuri Tour - 1 N / 2 D</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
                                             <p class="ofh">
-                                                <a href="http://www.souvenirsolutions.co.in/tour-packages/hornbill-festival-tour.htm" title="Hornbill Festival Tour">Hornbill Festival Tour - 5 N / 6 D</a></p>
+                                                <a href="tour-packages/hornbill-festival-tour.php" title="Hornbill Festival Tour">Hornbill Festival Tour - 5 N / 6 D</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
                                             <p class="ofh">
-                                                <a href="http://www.souvenirsolutions.co.in/tour-packages/3-nights4-days-meghalaya-tour.htm" title="3 Nights 4 Days Meghalaya Tour">3 Nights 4 Days Meghalaya Tour - 3 N
+                                                <a href="tour-packages/3-nights4-days-meghalaya-tour.php" title="3 Nights 4 Days Meghalaya Tour">3 Nights 4 Days Meghalaya Tour - 3 N
                                                     / 4 D</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
                                             <p class="ofh">
-                                                <a href="http://www.souvenirsolutions.co.in/tour-packages/5-nights6-days-tourof-andaman.htm" title="5 Nights / 6 Days Tour of Andaman">5 Nights / 6 Days Tour of Andaman
+                                                <a href="tour-packages/5-nights6-days-tourof-andaman.php" title="5 Nights / 6 Days Tour of Andaman">5 Nights / 6 Days Tour of Andaman
                                                     - 5 N / 6 D</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
                                             <p class="ofh">
-                                                <a href="http://www.souvenirsolutions.co.in/tour-packages/1-days-krang-shuri-tour.htm" title="1 Days Krang Shuri Tour">1 Days Krang Shuri Tour - / 1 D</a></p>
+                                                <a href="tour-packages/1-days-krang-shuri-tour.php" title="1 Days Krang Shuri Tour">1 Days Krang Shuri Tour - / 1 D</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
                                             <p class="ofh">
-                                                <a href="http://www.souvenirsolutions.co.in/tour-packages/7-nights8-days-egypt-tour.htm" title="7 Nights 8 Days Egypt Tour">7 Nights 8 Days Egypt Tour - 7 N / 8
+                                                <a href="tour-packages/7-nights8-days-egypt-tour.php" title="7 Nights 8 Days Egypt Tour">7 Nights 8 Days Egypt Tour - 7 N / 8
                                                     D</a></p>
                                         </li>
                                     </ul>
@@ -114,31 +114,31 @@
                                 <div class="ic showHide_rp">
                                     <ul>
                                         <li><b class="b2 fl"></b>
-                                            <p class="ofh"><a href="http://www.souvenirsolutions.co.in/tour-operators-in-guwahati.htm" title="Tour Operators in Guwahati">Tour Operators</a></p>
+                                            <p class="ofh"><a href="tour-operators-in-guwahati.php" title="Tour Operators in Guwahati">Tour Operators</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
-                                            <p class="ofh"><a href="http://www.souvenirsolutions.co.in/airline-ticketing-services-in-guwahati.htm" title="Airline Ticketing Services in Guwahati">Airline Ticketing
+                                            <p class="ofh"><a href="airline-ticketing-services-in-guwahati.php" title="Airline Ticketing Services in Guwahati">Airline Ticketing
                                                     Services</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
-                                            <p class="ofh"><a href="http://www.souvenirsolutions.co.in/rail-ticketing-services-in-guwahati.htm" title="Rail Ticketing Services in Guwahati">Rail Ticketing Services</a></p>
+                                            <p class="ofh"><a href="rail-ticketing-services-in-guwahati.php" title="Rail Ticketing Services in Guwahati">Rail Ticketing Services</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
-                                            <p class="ofh"><a href="http://www.souvenirsolutions.co.in/passport-visa-services-in-guwahati.htm" title="Passport &amp; Visa Services in Guwahati">Passport &amp; Visa
+                                            <p class="ofh"><a href="passport-visa-services-in-guwahati.php" title="Passport &amp; Visa Services in Guwahati">Passport &amp; Visa
                                                     Services</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
-                                            <p class="ofh"><a href="http://www.souvenirsolutions.co.in/travel-insurance-services-in-guwahati.htm" title="Travel Insurance Services in Guwahati">Travel Insurance Services</a>
+                                            <p class="ofh"><a href="travel-insurance-services-in-guwahati.php" title="Travel Insurance Services in Guwahati">Travel Insurance Services</a>
                                             </p>
                                         </li>
                                         <li><b class="b2 fl"></b>
-                                            <p class="ofh"><a href="http://www.souvenirsolutions.co.in/cruise-booking-services-in-guwahati.htm" title="Cruise Booking Services in Guwahati">Cruise Booking Services</a></p>
+                                            <p class="ofh"><a href="cruise-booking-services-in-guwahati.php" title="Cruise Booking Services in Guwahati">Cruise Booking Services</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
-                                            <p class="ofh"><a href="http://www.souvenirsolutions.co.in/hotel-booking-services-in-guwahati.htm" title="Hotel Booking Services in Guwahati">Hotel Booking Services</a></p>
+                                            <p class="ofh"><a href="hotel-booking-services-in-guwahati.php" title="Hotel Booking Services in Guwahati">Hotel Booking Services</a></p>
                                         </li>
                                         <li><b class="b2 fl"></b>
-                                            <p class="ofh"><a href="http://www.souvenirsolutions.co.in/car-coach-rentals-in-guwahati.htm" title="Car &amp; Coach Rentals in Guwahati">Car &amp; Coach Rentals</a></p>
+                                            <p class="ofh"><a href="car-coach-rentals-in-guwahati.php" title="Car &amp; Coach Rentals in Guwahati">Car &amp; Coach Rentals</a></p>
                                         </li>
                                     </ul>
                                     <p class="cb"></p>
